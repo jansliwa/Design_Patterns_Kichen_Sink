@@ -3,7 +3,7 @@ package behavioral.patterns.strategy.derek.banas;
 /**
  * Created by fun on 2015-10-14.
  */
-public class AnimalPlay{
+public class Main{
 
     public static void main(String[] args){
 
